@@ -11,8 +11,8 @@ while($list[] = readdir($dir));
 closedir($dir);
 array_pop($list);
 
-foreach ($list as $x) {
-    echo "$x\n";
+foreach ($list as $k=>$v) {
+    echo "$k: $v\n";
 }
 
 ?>
