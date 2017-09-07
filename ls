@@ -1,4 +1,3 @@
-#!/opt/lampp/bin/php
 <?php
 
 if ($argc == 1) {
