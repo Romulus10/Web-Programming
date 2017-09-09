@@ -8,10 +8,10 @@
         <center><h3>Good morning, Dave.</h3></center>
         <div id='sidebar'>
         <p>
-            <a href="https://github.com/Romulus10">Romulus10 on GitHub</a>
-            <a href="https://www.python.org">Python Programming Language</a>
-            <a href="https://ruby-lang.org">Ruby Programming Language</a>
-            <a href="https://keybase.io/romulus10">Romulus10 on Keybase.io</a>
+        <a href="https://github.com/Romulus10">Romulus10 on GitHub</a><br/><br/>
+        <a href="https://www.python.org">Python Programming Language</a><br/><br/>
+        <a href="https://ruby-lang.org">Ruby Programming Language</a><br/><br/>
+        <a href="https://keybase.io/romulus10">Romulus10 on Keybase.io</a><br/><br/>
         </p>    
         <?php
             echo "Today's date."

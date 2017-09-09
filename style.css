@@ -43,3 +43,11 @@ body {
     background-color: black;
     color: #00f70c;
 }
+
+.container { position:relative; padding: 0 0 0 55px; }
+#sidebar {
+    position:absolute;
+    top:0; bottom:0; right:0;
+    width:30%;
+    background:#000;
+}
