@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/romulus10
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://romulus10.github.io
+  * I am romulus10 (https://keybase.io/romulus10) on keybase.
+  * I have a public key ASB4UwPcLVUnFbqJ_yN-PSwdyfRCI9Tp5H7Jay8ehWYBBAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120785303dc2d552715ba89ff237e3d2c1dc9f44223d4e9e47ec96b2f1e856601040a",
+            "host": "keybase.io",
+            "kid": "0120785303dc2d552715ba89ff237e3d2c1dc9f44223d4e9e47ec96b2f1e856601040a",
+            "uid": "8d6cf851a789396d51e1e4b9142b1d19",
+            "username": "romulus10"
+        },
+        "service": {
+            "hostname": "romulus10.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494421908,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494421891,
+        "hash": "4d838aaba4c59f5211ad560e539d51713be94d594129ca5f7d9ba9d5cf307f6192c53ee74d7ff3901a7d062be566bd3bb7fcf827a382f1ff8b226d444c9f6a69",
+        "seqno": 1061740
+    },
+    "prev": "c3f5d24e8cd5c271e3e4207146e58be942f837cf4e268d9f4f635679008efc37",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeFMD3C1VJxW6if8jfj0sHcn0QiPU6eR+yWsvHoVmAQQKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzg1MzAzZGMyZDU1MjcxNWJhODlmZjIzN2UzZDJjMWRjOWY0NDIyM2Q0ZTllNDdlYzk2YjJmMWU4NTY2MDEwNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzg1MzAzZGMyZDU1MjcxNWJhODlmZjIzN2UzZDJjMWRjOWY0NDIyM2Q0ZTllNDdlYzk2YjJmMWU4NTY2MDEwNDBhIiwidWlkIjoiOGQ2Y2Y4NTFhNzg5Mzk2ZDUxZTFlNGI5MTQyYjFkMTkiLCJ1c2VybmFtZSI6InJvbXVsdXMxMCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicm9tdWx1czEwLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIyIn0sImN0aW1lIjoxNDk0NDIxOTA4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTQ0MjE4OTEsImhhc2giOiI0ZDgzOGFhYmE0YzU5ZjUyMTFhZDU2MGU1MzlkNTE3MTNiZTk0ZDU5NDEyOWNhNWY3ZDliYTlkNWNmMzA3ZjYxOTJjNTNlZTc0ZDdmZjM5MDFhN2QwNjJiZTU2NmJkM2JiN2ZjZjgyN2EzODJmMWZmOGIyMjZkNDQ0YzlmNmE2OSIsInNlcW5vIjoxMDYxNzQwfSwicHJldiI6ImMzZjVkMjRlOGNkNWMyNzFlM2U0MjA3MTQ2ZTU4YmU5NDJmODM3Y2Y0ZTI2OGQ5ZjRmNjM1Njc5MDA4ZWZjMzciLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAV7Ee2Gud/ez8RkeBktaYdQ3su7FoaHmneT52/YjjuuFtvnyiRdrzSHTkWK+kKcrk5o9Vlnf+2psnxG3mjW5INqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgyvrEr6v9LGrE3teQLR0FlbhbocOZAQZHSxNAKP6ACgCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/romulus10
+
+==================================================================
