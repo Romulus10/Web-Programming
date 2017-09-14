@@ -1,7 +1,4 @@
-<?php
-    exec("python counter.py");
-?>
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <link rel='stylesheet' type='text/css' href='style.css'>
@@ -52,7 +49,7 @@
         <div id='footer'>
             <table id='foot_table'>
                 <tr>
-                    Views: <?php $file=fopen("count.txt", "r");echo fgets($file);fclose($myfile); ?>
+                    Views: <?php exec("python counter.py"); $file=fopen("count.txt", "r");echo fgets($file);fclose($myfile); ?>
                 </tr>
             </table>
         </div>
