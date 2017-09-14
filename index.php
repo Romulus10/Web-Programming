@@ -53,8 +53,8 @@
                     <?php
                         $file = fopen("count.txt", "r");
                         $x = fgets($file);
-                        $x = $x + 1;
-                        echo $x;
+                        $x=$x+1;
+			echo $x;
                         fclose($file);
                         $file = fopen("count.txt", "w");
                         fwrite($file, $x);
