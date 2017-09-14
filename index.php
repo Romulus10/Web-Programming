@@ -49,7 +49,7 @@
         <div id='footer'>
             <table id='foot_table'>
                 <tr>
-                    Views: <?php exec("python counter.py"); $file=fopen("count.txt", "r");echo fgets($file);fclose($myfile); ?>
+                    Views: <?php exec("python counter.py"); $file=fopen("count.txt", "r");echo fgets($file);fclose($file); ?>
                 </tr>
             </table>
         </div>
