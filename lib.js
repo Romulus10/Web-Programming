@@ -8,6 +8,10 @@ function go_home() {
     window.location = "index.html";
 }
 
+function link_page() {
+  window.location = "links.html";
+}
+
 function load_page() {
     random_comic();
 }
