@@ -5,7 +5,7 @@ function random_comic() {
 }
 
 function go_home() {
-    window.location = "http://www.cs.scranton.edu/~batzels2/";
+    window.location = "index.html";
 }
 
 function load_page() {
