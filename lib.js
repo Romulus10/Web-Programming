@@ -9,9 +9,23 @@ function go_home() {
 }
 
 function link_page() {
-  window.location = "links.html";
+    window.location = "links.html";
 }
 
 function load_page() {
-    random_comic();
+    if (document.getElementById('xkcd') != undefined) {
+        random_comic();
+    }
+    if (document.getElementById('welcome') != undefined){
+            if (typeof(Storage) !== "undefined") {
+            if (localStorage.visited == "true") {
+                document.getElementById("welcome").innerHTML = "Welcome back.";
+            } else {
+                document.getElementById("welcome").innerHTML = "Welcome!";
+                localStorage.setItem("visited", "true");
+            }
+        } else {
+            document.getElementById("welcome").innerHTML = "Welcome!";
+        }
+    }
 }
