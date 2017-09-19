@@ -1,4 +1,11 @@
-.container { position:relative; padding: 0 0 0 55px; }
+body {
+    background: #d7d7d7;
+}
+
+.container {
+    position:relative;
+    padding: 0 0 0 55px;
+}
 
 #sidebar {
     position:absolute;
@@ -10,6 +17,10 @@
     width: 100%;
     position: fixed;
     bottom: 0;
+}
+
+#links {
+    width: 60%;
 }
 
 #foot_table {
