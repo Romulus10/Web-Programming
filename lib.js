@@ -5,11 +5,11 @@ function random_comic() {
 }
 
 function go_home() {
-    window.location = "index.html";
+    window.location = 'index.html';
 }
 
 function link_page() {
-    window.location = "links.html";
+    window.location = 'links.html';
 }
 
 function load_page() {
@@ -17,15 +17,15 @@ function load_page() {
         random_comic();
     }
     if (document.getElementById('welcome') != undefined){
-            if (typeof(Storage) !== "undefined") {
-            if (localStorage.visited == "true") {
-                document.getElementById("welcome").innerHTML = "Welcome back.";
+            if (typeof(Storage) !== 'undefined') {
+            if (localStorage.visited == 'true') {
+                document.getElementById('welcome').innerHTML = 'Welcome back.';
             } else {
-                document.getElementById("welcome").innerHTML = "Welcome!";
-                localStorage.setItem("visited", "true");
+                document.getElementById('welcome').innerHTML = 'Welcome!';
+                localStorage.setItem('visited', 'true');
             }
         } else {
-            document.getElementById("welcome").innerHTML = "Welcome!";
+            document.getElementById('welcome').innerHTML = 'Welcome!';
         }
     }
 }
