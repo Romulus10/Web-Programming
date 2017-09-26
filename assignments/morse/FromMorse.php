@@ -8,15 +8,18 @@ Version 1 2017-09-25:
 
 Version 2 2017-09-26:
     Performance fix. The translation should now occur in O(n) time rather than O(n^2).
-
+---------------------------------------------------------------------------------------------------------------
 Who did you help?
+Mark Liskowicz
 
 How?
-
+Gave pointers on how associative arrays work in PHP.
+---------------------------------------------------------------------------------------------------------------
 Who helped you?
 
 How?
 
+---------------------------------------------------------------------------------------------------------------
 References:
 https://stackoverflow.com/questions/11807796/add-space-after-every-4th-character
     Resolved issue with string concatenation.
