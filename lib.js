@@ -5,7 +5,7 @@ function random_comic() {
 }
 
 function go_home() {
-    window.location = 'index.html';
+    window.location = 'index.php';
 }
 
 function link_page() {
