@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/romulus10
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.cs.scranton.edu
+  * I am romulus10 (https://keybase.io/romulus10) on keybase.
+  * I have a public key ASA_D_hu9dBnf5IoOWWGHA_r6dJ77oR3t9W2WOxBhPARTAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120785303dc2d552715ba89ff237e3d2c1dc9f44223d4e9e47ec96b2f1e856601040a",
+      "host": "keybase.io",
+      "kid": "01203f0ff86ef5d0677f92283965861c0febe9d27bee8477b7d5b658ec4184f0114c0a",
+      "uid": "8d6cf851a789396d51e1e4b9142b1d19",
+      "username": "romulus10"
+    },
+    "merkle_root": {
+      "ctime": 1504995902,
+      "hash": "5eca8c58e094ce8fc62117482b820182e7dc32bb9e71995df16b1f88e7bd6406c0c1ce25253849273aaec6c0980e74d61da281cf9ff8616c7ecc0c8033912d76",
+      "hash_meta": "ea5a3a92b60999926b08d3f0fb12720aa2ff5287236cc3320553a899b3237d7e",
+      "seqno": 1377473
+    },
+    "service": {
+      "hostname": "www.cs.scranton.edu",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1504996340,
+  "expire_in": 504576000,
+  "prev": "31a21a7c831623450ca7aa6c0c2fd3209a04ff1a069e65ce8416c8221fe879e4",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPw/4bvXQZ3+SKDllhhwP6+nSe+6Ed7fVtljsQYTwEUwKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzg1MzAzZGMyZDU1MjcxNWJhODlmZjIzN2UzZDJjMWRjOWY0NDIyM2Q0ZTllNDdlYzk2YjJmMWU4NTY2MDEwNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2YwZmY4NmVmNWQwNjc3ZjkyMjgzOTY1ODYxYzBmZWJlOWQyN2JlZTg0NzdiN2Q1YjY1OGVjNDE4NGYwMTE0YzBhIiwidWlkIjoiOGQ2Y2Y4NTFhNzg5Mzk2ZDUxZTFlNGI5MTQyYjFkMTkiLCJ1c2VybmFtZSI6InJvbXVsdXMxMCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNDk5NTkwMiwiaGFzaCI6IjVlY2E4YzU4ZTA5NGNlOGZjNjIxMTc0ODJiODIwMTgyZTdkYzMyYmI5ZTcxOTk1ZGYxNmIxZjg4ZTdiZDY0MDZjMGMxY2UyNTI1Mzg0OTI3M2FhZWM2YzA5ODBlNzRkNjFkYTI4MWNmOWZmODYxNmM3ZWNjMGM4MDMzOTEyZDc2IiwiaGFzaF9tZXRhIjoiZWE1YTNhOTJiNjA5OTk5MjZiMDhkM2YwZmIxMjcyMGFhMmZmNTI4NzIzNmNjMzMyMDU1M2E4OTliMzIzN2Q3ZSIsInNlcW5vIjoxMzc3NDczfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5jcy5zY3JhbnRvbi5lZHUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA0OTk2MzQwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjMxYTIxYTdjODMxNjIzNDUwY2E3YWE2YzBjMmZkMzIwOWEwNGZmMWEwNjllNjVjZTg0MTZjODIyMWZlODc5ZTQiLCJzZXFubyI6NTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAkmDmJwkRgk2GHxrPB8TIR/H3uMySbBk25lxvbzJrOs08I1onSms688ylKdjhqmljbH0Cs9gM4JbRzB7Ljc8+DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILizYrdoYXVoCIPB3u994ZeSR204cn5GXBqWarx4Ws0Yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/romulus10
+
+==================================================================
