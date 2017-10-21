@@ -1,3 +1,4 @@
+#!/usr/local/bin/php
 <?php
     $text = $_GET['text'];
     $file = fopen('data.txt', 'a+');
