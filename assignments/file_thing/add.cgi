@@ -5,5 +5,5 @@
     fwrite($file, $text);
     $data = fread($file, filesize($file));
     fclose($file);
-    echo();
+    echo($data);
 ?>
