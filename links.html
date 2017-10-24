@@ -26,8 +26,7 @@ gtag('config', 'UA-44434564-5');
                 <a href='https://keybase.io/romulus10'>Romulus10 on Keybase</a><br/><br/>
                 <a href='mailto:romulus108@protonmail.com'>Email</a><br/><br/>
                 <a href='romulus10.gpg'>GPG Public Key</a><br/><br/>
-                <a href='https://romulus10.github.io'>Home</a><br/><br/>
-                <a href='https://romulus10.github.io/RomulusBlog'>Blog</a><br/><br/>
+                <a href='index.php'>Home</a><br/><br/>
             </div>
         </div>
     </div><br/>
