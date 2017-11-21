@@ -16,7 +16,7 @@ def index(request):
 def page_one(request):
     slide = {
         'title': 'Overview',
-        'text': ''
+        'text': 'The Web Framework for Perfectionists with Deadlines',
     }
     return render(request, 'main/page.html', {'slide': slide, 'back_link': 'index', 'fwd_link': 'page_two'})
 
@@ -68,7 +68,7 @@ def page_seven(request):
         'title': '',
         'text': '<a href="https://www.djangoproject.com/">Django</a>',
     }
-    return render(request, 'main/page.html', {'slide': slide, 'back_link': 'page_six', 'fwd_link': 'end'})
+    return render(request, 'main/page.html', {'slide': slide, 'back_link': 'page_six', 'fwd_link': 'zen'})
 
 
 def end(request):
@@ -105,3 +105,29 @@ def java_source(request):
                 '}</code><br/>94 bytes.'
     }
     return render(request, 'main/page.html', {'slide': slide, 'back_link': 'page_two'})
+
+
+def zen(request):
+    slide = {
+        'title': 'The Zen of Python',
+        'text': '''Beautiful is better than ugly.<br/>
+Explicit is better than implicit.<br/>
+Simple is better than complex.<br/>
+Complex is better than complicated.<br/>
+Flat is better than nested.<br/>
+Sparse is better than dense.<br/>
+Readability counts.<br/>
+Special cases aren't special enough to break the rules.<br/>
+Although practicality beats purity.<br/>
+Errors should never pass silently.<br/>
+Unless explicitly silenced.<br/>
+In the face of ambiguity, refuse the temptation to guess.<br/>
+There should be one-- and preferably only one --obvious way to do it.<br/>
+Although that way may not be obvious at first unless you're Dutch.<br/>
+Now is better than never.<br/>
+Although never is often better than *right* now.<br/>
+If the implementation is hard to explain, it's a bad idea.<br/>
+If the implementation is easy to explain, it may be a good idea.<br/>
+Namespaces are one honking great idea -- let's do more of those!<br/>'''
+    }
+    return render(request, 'main/page.html', {'slide': slide, 'back_link': 'page_seven', 'fwd_link': 'end'})
