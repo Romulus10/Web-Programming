@@ -37,3 +37,5 @@ Python is a tried-and-true scripting language created originally for the Amoeba 
 * Example administrative system
 ## Models
 ## Django Source Code
+# The Zen of Python
+# End Slide

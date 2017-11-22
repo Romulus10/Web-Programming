@@ -34,7 +34,11 @@ def page_two(request):
 def page_three(request):
     slide = {
         'title': 'Views',
-        'text': ''
+        'text': '<ul>'
+                '<li>Programmatic Delivery of HTTP content</li>'
+                '<li>Implemented as Class/function</li>'
+                '<li>Delivers HTTPResponse object that the middleware renders as HTML'
+                '</ul>'
     }
     return render(request, 'main/page.html', {'slide': slide, 'back_link': 'page_two', 'fwd_link': 'page_four'})
 
@@ -58,7 +62,7 @@ def page_five(request):
 def page_six(request):
     slide = {
         'title': 'Models',
-        'text': ''
+        'text': 'Backend database abstraction<br/>'
     }
     return render(request, 'main/page.html', {'slide': slide, 'back_link': 'page_five', 'fwd_link': 'page_seven'})
 
