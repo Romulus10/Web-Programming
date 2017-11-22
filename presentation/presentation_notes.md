@@ -29,8 +29,11 @@ Python is a tried-and-true scripting language created originally for the Amoeba 
 * The Washington Post
 * Eventbrite
 ## MVC
+* Model View Controller
 ## Views
+* Programmatic Delivery of HTTP Content
 ## URL Control
 ## Administration
+* Example administrative system
 ## Models
 ## Django Source Code

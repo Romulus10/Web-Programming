@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Django</title>
+  <meta charset="UTF-8">
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'main/styles/main.css' %}" />
+  <title>Django</title>
 </head>
+
 <body>
-    <h1>{{ slide.title }}</h1>
-    <div id="footer">
+  <h1>{{ slide.title }}</h1>
+  <div id="footer">
     <a href="/{{ link }}/">Next</a>
-    </div>
+  </div>
 </body>
+
 </html>
