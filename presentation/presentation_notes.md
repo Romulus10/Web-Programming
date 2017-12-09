@@ -3,9 +3,12 @@
 The web framework for perfectionists with deadlines - the idea is to get as much in-depth functionality as possible with as little conflict as can be managed.
 ### Why Python?
 Python is a tried-and-true scripting language created originally for the Amoeba operating system in 1991 by Guido van Rossum.
+
+- Now used largely for *NIX application scripting.
+
 ### Language Features
 * Benchmark analysis - Runtime speed comparable to C as data sets increase, with markedly lower memory requirements than Java or other full VM languages.
-* Known for available libraries for pretty much anything, often implemented in C which gives distinct performance improvements.
+* Known for available libraries for pretty much anything, often implemented in C which gives distinct performance advantages.
 * Dynamically typed (duck typed)
 * Automatic memory management
 * Object-oriented
@@ -32,10 +35,14 @@ Python is a tried-and-true scripting language created originally for the Amoeba 
 * Model View Controller
 ## Views
 * Programmatic Delivery of HTTP Content
+* Django doesn't try to be what it's not - mention Bootstrap, own css, et cetera
 ## URL Control
 ## Administration
 * Example administrative system
 ## Models
+
+## Forms
+
 ## Django Source Code
 # The Zen of Python
 # End Slide
